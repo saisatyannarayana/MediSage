@@ -19,4 +19,6 @@ Medisage is an AI-powered conversational chatbot designed to provide accurate, r
 
 ---
 
+https://9000-firebase-studio-1754488455445.cluster-htdgsbmflbdmov5xrjithceibm.cloudworkstations.dev/?monospaceUid=30885
+
 
